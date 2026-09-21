@@ -1,15 +1,16 @@
 # italian
 Agencia de Viajes
-*
-##DESCRIPCION
+***
+
+## DESCRIPCION
 Se realiza Aplicacipon web para agencia de viajes italians, para control 
 de viajes   Nacionales e internacionales y Tour
-*
+***
  
-##OBJETIVO
+## OBJETIVO
 Se desarrollada
  
-##FUNCIONALIDADES
+## FUNCIONALIDADES
 --[]CRUD USUARIOS
 --[]CRUD VIAJES NACIONALES
 --[]CRUD VIAJES INTERNACIONALES
